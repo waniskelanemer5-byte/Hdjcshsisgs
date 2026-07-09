@@ -10,7 +10,7 @@
       "settings": {
         "clients": [
           {
-            "id": "d2cb8181-233c-4d18-9972-8a1b04db1995",
+            "id": "d2cb8181-233c-4d18-9972-8a1b04db1945",
             "level": 0
           }
         ],
@@ -20,7 +20,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/light",
+          "path": "/wais",
           "headers": {}
         }
       }
